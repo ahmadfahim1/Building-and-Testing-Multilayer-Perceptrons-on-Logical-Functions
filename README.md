@@ -1,1 +1,1 @@
-# ahmadfahim1-Building-and-Testing-Multilayer-Perceptrons-on-Logical-Functions
+# Building-and-Testing-Multilayer-Perceptrons-on-Logical-Functions
